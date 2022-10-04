@@ -1,9 +1,50 @@
-- 👋 Hi, I’m @kylosonic
-- 👀 I’m interested in coding and hackathons
-- 🌱 I’m currently learning at AASTU to become a chemical engineer but my passion is full-stack development
-- 💞️ I’m looking to collaborate on any project that helps the world in providing solutions
-- 📫 How to reach me 
-        kylosonic_
+<h1 align="center">
+  <b>Nahom Girma</b>
+</h1>
+
+Heya! I'm Nahom Girma Woldemichael, a student currently living in Addis Ababa, Ethiopia. I'm a third year chemical engineering student and learning programming through small projects  on the side.
+
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Nahom Girma";
+    self.username = "kylosonic_";
+    self.location = "Addis Ababa, Ethiopia";
+    self.twitter = "@kylosonic_";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = NahomGirma()
+```
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
+
+
 
 
 <!---
