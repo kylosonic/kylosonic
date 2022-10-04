@@ -30,3 +30,6 @@ I'm a chemical engineer and a full stack developer
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
+<a href="https://rubyonrails.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" height="40" width="40" />
+</a>
