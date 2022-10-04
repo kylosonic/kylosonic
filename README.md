@@ -3,7 +3,7 @@
 
 I'm a chemical engineer and a full stack developer
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylosonic&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="kylosonic stats card" /></p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylosonic&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="kylosonic stats card" /></p>
 <a href="https://www.cprogramming.com/" target="blank">
