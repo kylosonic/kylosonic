@@ -15,7 +15,7 @@ Heya! I'm Nahom Girma Woldemichael, a student currently living in Addis Ababa, E
 </p>
 
 ```python
-class AbhigyanTrips():
+class NahomGirma():
     
   def __init__(self):
     self.name = "Nahom Girma";
