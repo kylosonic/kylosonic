@@ -8,7 +8,7 @@ Heya! I'm Nahom Girma Woldemichael, a student currently living in Addis Ababa, E
 
 <p>
 <div align="center">
- <i class="fa-brands fa-html5 fa-4x"></i>
+ 
 </div>
 </p>
 
@@ -41,7 +41,7 @@ if __name__ == '__main__':
   </a>
 </div>
 -->
-
+https://github-readme-stats.vercel.app/api?username=kylosonic &theme=radical
 
 
 
