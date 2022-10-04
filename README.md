@@ -41,8 +41,9 @@ if __name__ == '__main__':
   </a>
 </div>
 -->
-https://github-readme-stats.vercel.app/api?username=kylosonic &theme=radical
-
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=kylosonic &theme=radical">Github stats</a>
+</div>
 
 
 <!---
