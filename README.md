@@ -1,52 +1,32 @@
-<h1 align="center">
-  <b>Nahom Girma</b>
-</h1>
+# Hi, I'm Nahom Girma! 👋
+## 🚀 About Me
 
-Heya! I'm Nahom Girma Woldemichael, a student currently living in Addis Ababa, Ethiopia. I'm a third year chemical engineering student and learning programming through small projects  on the side.
-
-<br>
-
+I'm a chemical engineer and a full stack developer
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
 <p>
-<div align="center">
- 
-</div>
-</p>
-
-```python
-class NahomGirma():
-    
-  def __init__(self):
-    self.name = "Nahom Girma";
-    self.username = "kylosonic_";
-    self.location = "Addis Ababa, Ethiopia";
-    self.twitter = "@kylosonic_";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = NahomGirma()
-```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-<div align="center">
- ![Github stats] https://github-readme-stats.vercel.app/api?username=kylosonic&theme=highcontrast&show_icons=true&count_private=true
-</div>
-
-
-<!---
-kylosonic/kylosonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
+<a href="https://www.cprogramming.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+</a>
+<a href="https://reactjs.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+</a>
+<a href="https://getbootstrap.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
+</a>
+<a href="https://www.w3schools.com/css/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40" />
+</a>
+<a href="https://www.w3.org/html/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
+</a>
+<a href="https://tailwindcss.com/" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
+</a>
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
