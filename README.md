@@ -1,7 +1,7 @@
 # Hi, I'm Nahom Girma! 👋
 ## 🚀 About Me
 
-I'm a chemical engineer and a full stack dev looking to solve real world problems. i have a passion for learning and sharing my knowledge with others as publicly as possible. if you found value in something i have created, please feel free to give me a shout out @kylosonic or give some ❤️ on <a href=""action="mailTo:nahom.girma.woldemichael@gmail.com"><strong>mail</strong></a>. Feel free to reach out in case you want to just get in touch also.
+I'm a chemical engineer and a full stack dev looking to solve real world problems. i have a passion for learning and sharing my knowledge with others as publicly as possible. if you found value in something i have created, please feel free to give me a shout out @kylosonic or give some ❤️ on mail. Feel free to reach out in case you want to just get in touch also.
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kylosonic&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="kylosonic stats card" /></p>
 <p>
