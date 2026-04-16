@@ -38,6 +38,6 @@ I am a dedicated Software Engineer with a strong foundation in computer science 
 
 I love sharing knowledge and connecting with fellow developers. If you found value in something I created, feel free to give me a shout-out!
 
-* 🌐 **Portfolio:** [portfolio-seven-orcin-wzo5w69dvh.vercel.app](https://portfolio-seven-orcin-wzo5w69dvh.vercel.app) 
+* 🌐 **Portfolio:** [portfolio-seven-orcin-wzo5w69dvh.vercel.app](https://nahomwoldemichael.vercel.app) 
 * 📧 **Email:** [nahomg761@gmail.com](mailto:nahomg761@gmail.com) 
 * 📞 **Phone:** (+251) 941927360 
