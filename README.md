@@ -1,43 +1,164 @@
-# Hi there, I'm Nahom Girma Woldemichael!👋 
+# 👋 Hey, I'm Nahom Girma Woldemichael
 
-### 💻 Software Engineer | Web & Mobile Application Developer 
+### 🚀 Software Engineer · Web & Mobile Developer · Computer Science
 
-I am a dedicated Software Engineer with a strong foundation in computer science and a track record of shipping impactful web and mobile applications. I am experienced in taking complex platforms from zero-to-one, including end-to-end Learning Management Systems (LMS) and high-performance, real-time mobile trading applications. I am passionate about writing clean, maintainable code, optimizing system performance, and aligning technical solutions with business objectives.
+I build software that solves real problems.
 
----
+I'm a Software Engineer focused on **web, mobile, backend systems, and scalable application architecture**. I enjoy taking products from **idea → architecture → development → deployment**, with a strong focus on clean code, performance, reliability, and user experience.
 
-### 🛠️ Tech Stack & Skills
+I've worked on everything from **real-time trading applications** and **scalable Learning Management Systems** to custom web platforms for businesses.
 
-* **Languages:** JavaScript/TypeScript, Dart, Python, Java, C++, C, HTML5, CSS3/Tailwind 
-* **Frameworks & Libraries:** Flutter, React.js, Next.js, Node.js (Express), Django 
-* **Databases & Backend:** Firebase/Firestore, PostgreSQL, MongoDB, RESTful APIs, JWT Authentication 
-* **DevOps & Tools:** Git/GitHub, GitHub Actions (CI/CD), Postman, Figma, Vercel 
-* **Core Competencies:** Data Structures & Algorithms, Object-Oriented Programming (OOP), State Management (e.g., Provider/Redux), Agile Development, Technical SEO 
+> **Build. Ship. Improve. Repeat.**
 
----
+## 🧑‍💻 About Me
 
-### 🔭 What I'm Currently Working On
+┌─────────────────────────────────────────────────────────────┐
+│  💻 Software Engineer                                      │
+│  📱 Web & Mobile Application Developer                     │
+│  🧠 Computer Science Student                               │
+│  ⚡ Interested in scalable systems & real-time apps        │
+│  🌍 Building from Ethiopia for the global web              │
+└─────────────────────────────────────────────────────────────┘
 
-* 📱 Architecting and maintaining the Rhobot Capitals Forex trading mobile application to ensure a seamless, cross-platform experience for both iOS and Android users. 
-* 📈 Implementing real-time WebSocket connections to stream live market data, reducing data latency by 30% for active traders. 
-* 🎓 Co-engineering a scalable, end-to-end Learning Management System (LMS) from the ground up, currently supporting over 2,000 active students. 
-* 🌐 Developing and maintaining custom web applications for local business clients, focusing on high performance, accessibility, and Core Web Vitals. 
+I care about more than making applications work. I care about building software that is:
 
----
+**Clean** — easy to understand and maintain
+**Fast** — optimized for real-world performance
+**Scalable** — designed to grow with users and data
+**Reliable** — built with stability and security in mind
+**Useful** — solving actual problems for actual people
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,cpp,c,html,css" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel" />
+</p>
+
+## 🚀 What I'm Building
+
+### 📈 Rhobot Capitals
+
+Working on a cross-platform **Forex trading mobile application** designed for both iOS and Android.
+
+**Focus areas:**
+
+* Real-time market data
+* WebSocket communication
+* Trading interfaces
+* Performance optimization
+* Cross-platform mobile architecture
+* Reliable state management
+
+### 🎓 Learning Management System
+
+Co-engineering a scalable **end-to-end LMS platform** supporting **2,000+ active students**.
+
+**Working across:**
+
+* Student management
+* Authentication & authorization
+* Course management
+* Learning workflows
+* Backend architecture
+* Database design
+* Platform scalability
+
+### 🌐 Business Applications
+
+Building custom web applications for businesses with an emphasis on:
+
+**Performance · Accessibility · SEO · Core Web Vitals · Responsive Design**
+
+## 🧠 Engineering Interests
+
+Software Architecture
+        ↓
+Backend Engineering
+        ↓
+Real-Time Systems
+        ↓
+Mobile Development
+        ↓
+Distributed & Scalable Applications
+        ↓
+AI & Intelligent Automation
+
+I'm particularly interested in **how software systems are designed behind the interface** — architecture, APIs, databases, distributed systems, performance, and reliability.
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kylosonic&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylosonic&layout=compact&theme=radical" height="150" alt="languages graph" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kylosonic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylosonic&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
----
+<div align="center">
 
-### 📫 Let's Connect!
+<img src="https://streak-stats.demolab.com?user=kylosonic&theme=tokyonight&hide_border=true" />
 
-I love sharing knowledge and connecting with fellow developers. If you found value in something I created, feel free to give me a shout-out!
+</div>
 
-* 🌐 **Portfolio:** [portfolio-seven-orcin-wzo5w69dvh.vercel.app](https://nahomwoldemichael.vercel.app) 
-* 📧 **Email:** [nahomg761@gmail.com](mailto:nahomg761@gmail.com) 
-* 📞 **Phone:** (+251) 941927360 
+## 📈 My Development Philosophy
+
+> **Good software isn't just code that works.
+> It's code that can survive change.**
+
+I try to approach every project with three questions:
+
+**1. Does it solve the problem?**
+**2. Can it scale when the problem gets bigger?**
+**3. Can another engineer understand and improve it later?**
+
+## 🎯 Currently Learning & Exploring
+
+☑ Advanced Data Structures & Algorithms
+☑ Software Architecture
+☑ Backend Engineering
+☑ Cloud & DevOps
+☑ Real-Time Systems
+☑ Artificial Intelligence
+☑ System Design
+☑ Scalable Application Development
+
+## 🌍 Let's Build Something
+
+I'm interested in collaborating on ambitious software projects, open-source work, startups, and products that solve meaningful problems.
+
+### 🔗 Connect With Me
+
+🌐 **Portfolio**
+[nahomwoldemichael.vercel.app](https://nahomwoldemichael.vercel.app)
+
+📧 **Email**
+[nahomg761@gmail.com](mailto:nahomg761@gmail.com)
+
+<div align="center">
+
+### ⚡ Code. Create. Ship.
+
+<img src="https://komarev.com/ghpvc/?username=kylosonic&style=for-the-badge&color=blueviolet" />
+
+</div>
