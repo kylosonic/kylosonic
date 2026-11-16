@@ -59,6 +59,9 @@ A low-latency AI assistance product built around streaming model output, structu
 
 I contribute fixes and regression tests to tools I use in production. I care about reproducible bug reports, narrow patches, and verifying the behavior the original issue describes.
 
+- [`career-ops` #7179](https://github.com/career-ops-hq/career-ops/pull/7205): isolated a tracker regression test from inherited workspace data; all Linux, macOS, and Windows checks pass.
+- [`career-ops` #7161](https://github.com/career-ops-hq/career-ops/pull/7222): recognized dotted corporate suffixes without allowing arbitrary one-letter tails.
+
 See my [open pull requests](https://github.com/kylosonic?tab=pull-requests) and [merged contributions](https://github.com/pulls?q=is%3Apr+author%3Akylosonic+is%3Amerged).
 
 ## Currently
