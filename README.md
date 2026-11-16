@@ -1,164 +1,68 @@
-# 👋 Hey, I'm Nahom Girma Woldemichael
+# Nahom Girma Woldemichael
 
-### 🚀 Software Engineer · Web & Mobile Developer · Computer Science
+### AI systems architect and full-stack engineer
 
-I build software that solves real problems.
+I build production systems where AI has to be useful, observable, and reliable: stateful agent workflows, retrieval pipelines, evaluation harnesses, streaming APIs, and offline-first applications.
 
-I'm a Software Engineer focused on **web, mobile, backend systems, and scalable application architecture**. I enjoy taking products from **idea → architecture → development → deployment**, with a strong focus on clean code, performance, reliability, and user experience.
+I work across **Python, TypeScript, Rust, and Dart**, with a focus on the complete path from architecture through testing, deployment, and performance.
 
-I've worked on everything from **real-time trading applications** and **scalable Learning Management Systems** to custom web platforms for businesses.
+[Portfolio](https://nahomwoldemichael.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nahomgwoldemichael) · [Email](mailto:nahomg761@gmail.com)
 
-> **Build. Ship. Improve. Repeat.**
+---
 
-## 🧑‍💻 About Me
+## What I build
 
-┌─────────────────────────────────────────────────────────────┐
-│  💻 Software Engineer                                      │
-│  📱 Web & Mobile Application Developer                     │
-│  🧠 Computer Science Student                               │
-│  ⚡ Interested in scalable systems & real-time apps        │
-│  🌍 Building from Ethiopia for the global web              │
-└─────────────────────────────────────────────────────────────┘
+- **Agentic AI systems:** LangGraph and PydanticAI workflows, Model Context Protocol servers, structured outputs, human approval gates, and reproducible evaluation harnesses.
+- **Retrieval and evidence pipelines:** multimodal indexing, hybrid search, citation verification, and latency and token-cost optimization.
+- **Distributed products:** FastAPI and Node.js services, PostgreSQL and pgvector, WebSockets, streaming interfaces, Docker, and GitHub Actions.
+- **Offline-first mobile applications:** Flutter and Dart, Riverpod and BLoC, SQLite and Isar synchronization, and responsive cross-platform interfaces.
 
-I care about more than making applications work. I care about building software that is:
+## Selected work
 
-**Clean** — easy to understand and maintain
-**Fast** — optimized for real-world performance
-**Scalable** — designed to grow with users and data
-**Reliable** — built with stability and security in mind
-**Useful** — solving actual problems for actual people
+### [OpenContext](https://github.com/kylosonic/opencontext)
 
-## 🛠️ Tech Stack
+An evidence-linked video-to-context engine for text-only agents. It turns long-form media into timestamped context packets with hybrid retrieval and citation verification.
 
-### Languages
+`TypeScript` `FastAPI` `PostgreSQL` `RAG` `multimodal indexing`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,dart,cpp,c,html,css" />
-</p>
+### [Nourish](https://github.com/kylosonic/nourish)
 
-### Frontend & Mobile
+An offline-first nutrition platform using a localized Ethiopian food database. Nutrition values come from the source data rather than model-generated estimates.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
-</p>
+`Flutter` `TypeScript` `SQLite` `IndexedDB` `PWA`
 
-### Backend & Databases
+### [FreightPilot](https://github.com/kylosonic/supply-chain-logistics-platform)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase,postgres,mongodb" />
-</p>
+A B2B logistics platform that extracts structured dispatch data from documents and supports route planning and fleet workflows.
 
-### DevOps & Tools
+`React` `FastAPI` `PostgreSQL` `document extraction`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel" />
-</p>
+### [Stealth Overlay](https://www.stealthoverlay.com)
 
-## 🚀 What I'm Building
+A low-latency AI assistance product built around streaming model output, structured tool calls, and real-time desktop workflows.
 
-### 📈 Rhobot Capitals
+`TypeScript` `Python` `WebSockets` `LLM orchestration`
 
-Working on a cross-platform **Forex trading mobile application** designed for both iOS and Android.
+## Toolbox
 
-**Focus areas:**
+**AI and data:** LangGraph, PydanticAI, MCP, OpenAI, Anthropic, Gemini, pgvector, BM25, reranking, Promptfoo, Ragas
 
-* Real-time market data
-* WebSocket communication
-* Trading interfaces
-* Performance optimization
-* Cross-platform mobile architecture
-* Reliable state management
+**Backend:** Python, FastAPI, AsyncIO, TypeScript, Node.js, REST, GraphQL, WebSockets, SSE
 
-### 🎓 Learning Management System
+**Frontend and mobile:** React, Next.js, Flutter, Dart, Riverpod, BLoC, Tailwind CSS
 
-Co-engineering a scalable **end-to-end LMS platform** supporting **2,000+ active students**.
+**Data and infrastructure:** PostgreSQL, Redis, Prisma, Docker, GitHub Actions, Vercel, Playwright, Pytest, Vitest
 
-**Working across:**
+**Systems:** Rust, Go, Linux, CI/CD, observability, performance profiling
 
-* Student management
-* Authentication & authorization
-* Course management
-* Learning workflows
-* Backend architecture
-* Database design
-* Platform scalability
+## Open source
 
-### 🌐 Business Applications
+I contribute fixes and regression tests to tools I use in production. I care about reproducible bug reports, narrow patches, and verifying the behavior the original issue describes.
 
-Building custom web applications for businesses with an emphasis on:
+See my [open pull requests](https://github.com/kylosonic?tab=pull-requests) and [merged contributions](https://github.com/pulls?q=is%3Apr+author%3Akylosonic+is%3Amerged).
 
-**Performance · Accessibility · SEO · Core Web Vitals · Responsive Design**
+## Currently
 
-## 🧠 Engineering Interests
+I am interested in **AI platform engineering, agent infrastructure, applied research engineering, and senior full-stack roles** where system design and product delivery share the same owner.
 
-Software Architecture
-        ↓
-Backend Engineering
-        ↓
-Real-Time Systems
-        ↓
-Mobile Development
-        ↓
-Distributed & Scalable Applications
-        ↓
-AI & Intelligent Automation
-
-I'm particularly interested in **how software systems are designed behind the interface** — architecture, APIs, databases, distributed systems, performance, and reliability.
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kylosonic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylosonic&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kylosonic&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📈 My Development Philosophy
-
-> **Good software isn't just code that works.
-> It's code that can survive change.**
-
-I try to approach every project with three questions:
-
-**1. Does it solve the problem?**
-**2. Can it scale when the problem gets bigger?**
-**3. Can another engineer understand and improve it later?**
-
-## 🎯 Currently Learning & Exploring
-
-☑ Advanced Data Structures & Algorithms
-☑ Software Architecture
-☑ Backend Engineering
-☑ Cloud & DevOps
-☑ Real-Time Systems
-☑ Artificial Intelligence
-☑ System Design
-☑ Scalable Application Development
-
-## 🌍 Let's Build Something
-
-I'm interested in collaborating on ambitious software projects, open-source work, startups, and products that solve meaningful problems.
-
-### 🔗 Connect With Me
-
-🌐 **Portfolio**
-[nahomwoldemichael.vercel.app](https://nahomwoldemichael.vercel.app)
-
-📧 **Email**
-[nahomg761@gmail.com](mailto:nahomg761@gmail.com)
-
-<div align="center">
-
-### ⚡ Code. Create. Ship.
-
-<img src="https://komarev.com/ghpvc/?username=kylosonic&style=for-the-badge&color=blueviolet" />
-
-</div>
+Based in Addis Ababa, Ethiopia, and available to collaborate across US Eastern and Central European working hours.
