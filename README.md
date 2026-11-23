@@ -59,6 +59,7 @@ A low-latency AI assistance product built around streaming model output, structu
 
 I contribute fixes and regression tests to tools I use in production. I care about reproducible bug reports, narrow patches, and verifying the behavior the original issue describes.
 
+- [`synaTudorMiS` #13](https://github.com/vojtapl/synaTudorMiS/pull/13) (merged): fixed `fprintd` patch persistent-storage initialization and discovery while preserving GLib 2.64 compatibility; verified against clean upstream `v1.94.5` and fingerprint hardware.
 - [`career-ops` #7179](https://github.com/career-ops-hq/career-ops/pull/7205): isolated a tracker regression test from inherited workspace data; all Linux, macOS, and Windows checks pass.
 - [`career-ops` #7161](https://github.com/career-ops-hq/career-ops/pull/7222): recognized dotted corporate suffixes without allowing arbitrary one-letter tails.
 
